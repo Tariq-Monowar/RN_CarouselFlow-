@@ -1,4 +1,5 @@
 # react native CarouselFlow
+CarouselFlow is an exceptional React Native 📱app. which converts your image collection into stunning dynamic 🖼️ image carousel
 ### Features
 - 🖼️ Image Carousel: Swipe through a beautiful collection of images with smooth animations.
 - 🌟 Blurred Background: The background dynamically blurs as you navigate through the images, emphasizing the selected image.
