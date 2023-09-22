@@ -9,7 +9,7 @@ import {
   Dimensions,
   StyleSheet,
 } from "react-native";
-import { data } from "./.expo/imageData";
+import { data } from "./imageData";
 
 const windowWidth = Dimensions.get("window").width;
 const { width, height } = Dimensions.get("screen");
